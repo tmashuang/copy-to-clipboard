@@ -69,7 +69,7 @@ function copy(text, options) {
     if (mark) {
       document.body.removeChild(mark);
     }
-    reselectPrevious();
+    reselectPrevious;
   }
 
   return success;
